@@ -1,4 +1,4 @@
-# twitter_check-ins in Tokyo
+# Twitter check-ins in Tokyo
 
 This is a Shiny application developed as a part of a student project at NYC Data Science Bootcamp fall 2017. 
 
