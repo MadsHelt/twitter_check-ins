@@ -6,4 +6,6 @@ The app explores venue check-ins in Tokyo using data from Twitter.
 
 Also, this is my very first Shiny app.
 
+Link to app here: https://madshelt.shinyapps.io/twitter_check-ins/
+
 
